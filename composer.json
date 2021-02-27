@@ -1,0 +1,15 @@
+{
+    "name": "testuchun/test",
+    "description": "asdas",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdugaffor",
+            "email": "abdugaffor5269@gmail.com"
+        }
+    ],
+    "require": {
+        
+    }
+}
