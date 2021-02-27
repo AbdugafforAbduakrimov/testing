@@ -6,7 +6,7 @@ class Test
 {
 	public function showText()
 	{
-		echo "Assalamu alaykum, Bu Test uchun yozilgan kod";
+		echo "Assalamu alaykum, Bu Men uchun yozilgan kod";
 	}
 }
 
